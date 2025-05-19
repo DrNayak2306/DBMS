@@ -1,6 +1,6 @@
 # ER Model
 
-[Example](https://github.com/DrNayak2306/DBMS_OOP/blob/main/er_diagram.png)  
+[Example](/home/dhruv/Desktop/DBMS/Illustrations/er_diagram.png)  
 [Symbols](https://github.com/DrNayak2306/DBMS_OOP/blob/main/er_diagram_symbols.png)  
 [Ternary relationship](https://github.com/DrNayak2306/DBMS_OOP/blob/main/ternary_relationship.png)  
 [Weak entity relationship](https://github.com/DrNayak2306/DBMS_OOP/blob/main/weak_entity_relation.png)
