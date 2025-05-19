@@ -1,9 +1,9 @@
 # ER Model
 
-[Example](/home/dhruv/Desktop/DBMS/Illustrations/er_diagram.png)  
-[Symbols](https://github.com/DrNayak2306/DBMS_OOP/blob/main/er_diagram_symbols.png)  
-[Ternary relationship](https://github.com/DrNayak2306/DBMS_OOP/blob/main/ternary_relationship.png)  
-[Weak entity relationship](https://github.com/DrNayak2306/DBMS_OOP/blob/main/weak_entity_relation.png)
+[Example](../Illustrations/er_diagram.png)  
+[Symbols](../Illustrations/er_diagram_symbols.png)  
+[Ternary relationship](../Illustrations/ternary_relationship.png)  
+[Weak entity relationship](../Illustrations/weak_entity_relation.png)
 
 **Entity** - Real world object distinguishable from others. BOX  
 **Attribute** - A property of the entity. ELLIPSE  
