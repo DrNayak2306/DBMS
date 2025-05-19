@@ -1,2 +1,2 @@
-# For DBMS & OOP
+# For DBMS
 Courtesy: CodeHelp - by Babbar
